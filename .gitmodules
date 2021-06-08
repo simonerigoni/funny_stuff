@@ -4,3 +4,6 @@
 [submodule "logging_examples"]
 	path = logging_examples
 	url = ./logging_examples
+[submodule "qlikview_calendar"]
+	path = qlikview_calendar
+	url = ./qlikview_calendar
