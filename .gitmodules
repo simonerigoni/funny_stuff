@@ -1,3 +1,6 @@
 [submodule "git_submodules_example"]
 	path = git_submodules_example
 	url = ./git_submodules_example
+[submodule "logging_examples"]
+	path = logging_examples
+	url = ./logging_examples
