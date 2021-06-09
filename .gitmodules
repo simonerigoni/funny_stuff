@@ -7,3 +7,6 @@
 [submodule "qlikview_calendar"]
 	path = qlikview_calendar
 	url = ./qlikview_calendar
+[submodule "convert_images_to_pdf"]
+	path = convert_images_to_pdf
+	url = ./convert_images_to_pdf
