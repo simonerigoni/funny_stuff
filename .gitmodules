@@ -10,6 +10,3 @@
 [submodule "convert_images_to_pdf"]
 	path = convert_images_to_pdf
 	url = ./convert_images_to_pdf
-[submodule "my_life_calendar"]
-	path = my_life_calendar
-	url = ./my_life_calendar
